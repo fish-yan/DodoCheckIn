@@ -1,0 +1,36 @@
+Use case: precise-object-edit / ui-mockup.
+Revise Image 1 (the generated full-page design) with STRICT GEOMETRY CORRECTIONS. Image 2 is the authoritative original design: copy the individual card geometry and inner arrangement from its LEFT phone 首页·双列 and MIDDLE phone 任务区·双列. Do NOT copy its right phone single column.
+
+OUTPUT ONE SINGLE EXTREMELY TALL NARROW IPHONE SCROLL SCREENSHOT, requested pixel canvas 512 WIDE x 3840 TALL, aspect ratio 1:7.5. This unusual long aspect is intentional and required: the page contains 10 rows of normal-height cards plus the hero and journey. It is NOT a poster or device board. Do not make a normal 1:2 or 1:3 poster by squashing content. Fill the entire canvas WIDTH with the phone interface. ZERO outside background, ZERO white side gutters, ZERO unused external canvas. The status bar, navigation bar, cards and bottom tab all use the same full-screen iPhone width. A simulated full-page scrolling screen, no device shell needed.
+
+PRESERVE the panda hero, score strip, JOURNEY style (rocket+dotted curved route+actual four planets), four colorful decorative space-base headers, all17 tasks, the illustrated identities, state data, controls, spelling and order from Image1.
+CHANGE ONLY geometry of cards, row spacing and canvas/exterior:
+1. At logical phone width390pt, page side margins12pt, group inner padding8pt, columns169pt each, horizontal gap12pt.
+2. EVERY task tile is a TALL VERTICAL card, equal height188pt. Height slightly greater than its width. NEVER short landscape horizontal cards. Courage cards SAME height as energy cards. EVERY row has exactly18pt blank vertical separation. Every section24pt apart. This rhythm must be visually obvious.
+3. Consistent card inner structure: title and ★+score in a single row AT TOP LEFT, big illustration centered on its OWN ROW below title (about92pt high), timer/detail on its OWN ROW below illustration, action button FULL CARD INNER WIDTH on a final bottom row. The button must NEVER sit beside the timer or beside the picture. Completed status on bottom row replaces action, with subtle upper-right approval stamp. Use the original reference Image2's LEFT phone card anatomy. This is the MOST IMPORTANT correction.
+4. All FOUR groups always TWO columns, with odd last tasks sleeping/reading/dressing left-half-width and right empty.
+5. All page outside cards and header illustrations is SOLID pale gray #F3F4FA, NO overall illustrated clouds/sky. Only hero and journey may contain tiny contextual decorations. No outside mockup background.
+
+COMPLETE CONTENT, TOP TO BOTTOM:
+native iOS status 9:41 and nav 多多打卡 info / shield.
+panda-rocket hero 今天也要 闪闪发光！ with6/13 progress.
+score strip 7今日自评,6有效打卡,0奖励分,家长确认.
+journey 我的星际旅程,本月6/50,每50分解锁星球,rocket left, curved dotted blue path linking 水星6/50 金星未解锁 地球未解锁 火星未解锁.
+ENERGY orange#FF8D28 header energy dome/rover 能量补给站2/5:
+row1 起床+1 sunbed,07:12,已完成+stamp | 吃早饭+1 breakfastmilk,25:11/30,已完成+stamp.
+row2 吃午饭+1 ricebowl,30分钟,开始 | 吃晚饭+1 dinnerplate,30分钟,开始.
+row3 睡觉+1 moon sleepingpanda,晚上9:30,打卡 | empty.
+KNOWLEDGE lavender#B0A0FF telescope/observatory 知识探索站1/3:
+row1 认真听讲+2 headphonesbooks,已完成+stamp | 写作业+2 pencilnotebook,12:36,结束.
+row2 阅读+2 books,至少15分钟,开始 | empty.
+LIFE cyan#00D2E0 cute livingdomes 生活空间站3/5:
+row1 收拾玩具+1 toybasket,已完成+stamp | 打扫卫生+1 broom,打卡.
+row2 洗漱+1 toothbrushduck,晚上9:00,打卡 | 干净卫生+1 towelssoap,待确认.
+row3 自己穿衣+1 blueclothes,已完成+stamp | empty.
+COURAGE rose#FF375F pinkdomeflag 勇气成长站0/4:
+row1 乖巧听话+2 pandaheart,打卡 | 不发脾气+2 calmpanda,打卡.
+row2 做事不拖拉+2 graylightning,三餐、作业后解锁,graylock尚未解锁 | 诚实守信+1 pinkshield,打卡.
+Smallfooter 每天一点点，成长看得见。
+Native bottom tab今日打卡selected,打卡统计,积分消耗,homeindicator.
+
+Do not truncate, omit, duplicate or rearrange tasks. A very tall image and equal188pt vertical cards with18pt row gaps are mandatory. Let the canvas length grow, NEVER make the bottom half denser than the top half. No explanatory labels outside UI.

@@ -1,0 +1,72 @@
+{
+  "generator": "Built-in image_gen.imagegen",
+  "source": "Artwork/Designs/多多打卡-完整首页开发设计稿-v4.png",
+  "card": {
+    "width": 507,
+    "height": 570
+  },
+  "button": {
+    "width": 435,
+    "height": 120,
+    "cornerRadius": 30
+  },
+  "groups": [
+    {
+      "name": "energy",
+      "ref": "01-energy-reference",
+      "color": "#FF8D28",
+      "rows": 3,
+      "count": 5,
+      "title": "能量补给站",
+      "status": "Only 起床 and 吃早饭 are completed: change their bottom check-circle icon and 已完成 lettering from green to ORANGE #FF8D28. Remove both green rounded background bars completely; status is bare icon+text directly on the card, not a button. Keep existing approval stamps.",
+      "prompt": "Use case: precise-object-edit. EDIT ONLY THE ATTACHED UI SECTION. This is one section of a continuous iPhone screenshot; preserve every existing illustrated element, Chinese text, point value, task order, state, timer, decorative header building, stamp and group count. Do NOT invent or remove any element except completed-status button backgrounds as requested. Do not redesign artwork or replace the panda, objects or header.\nRequested edit: normalize all task cards and action buttons to a strict fixed-size system, reducing width-to-height ratio (cards become consistently portrait). Preserve image aspect ratios INSIDE the cards; rearrange existing elements with whitespace, never stretch the characters or illustrations.\nPIXEL GRID, SAME FOR EVERY SECTION:\nOutput width1170px with solid pale #F3F4FA outside edges. Section edges x36 and1134, matching source. Header area height180px; preserve original header illustration and title within this area, reduce only its overall scale proportionally if needed.\nTwo equal card columns: x60 and603. Every card EXACTLY507px wide by570px tall, rounded corners30px. First row y180, every next row y804 then1428; row gap54px. Odd final card stays left, empty right cell with NO placeholder or plus sign. NO single column.\nCard interior from top: text title and goldstar+points on one line; same original large illustration on separate central row scaled to fit its 270px illustration area; timer or existing short description below image; action/status anchored at common bottom baseline. All artwork fully visible. Same font sizes on all cards, don't shrink late rows.\nEvery active, running, pending and disabled action button EXACTLY435px wide by120px tall, corner radius30px, positioned36px from each card side and24px from bottom. Identical shape and size across all cards irrespective of label length. Keep original color semantics: section-colored primary action, amberpending, graylocked. No changes to text. Completed status occupies this same bottom layout space but with NO rectangular/pill background, no border, no button fill: only a small check-circle icon and 已完成 in section theme color.\nPreserve pale card surfaces and approval stamps. No hero, nav, tabbar or footer in this section. No mockup phone or outside presentation background. Exactly the same UI section as reference, only normalized dimensions and requested status color/background. Keep all edges and full border visible, do not crop the last row.\n\nSECTION: 能量补给站, theme#FF8D28, exactly3rows and5cards. Output1170x2022px. Only 起床 and 吃早饭 are completed: change their bottom check-circle icon and 已完成 lettering from green to ORANGE #FF8D28. Remove both green rounded background bars completely; status is bare icon+text directly on the card, not a button. Keep existing approval stamps."
+    },
+    {
+      "name": "knowledge",
+      "ref": "02-knowledge-reference",
+      "color": "#B0A0FF",
+      "rows": 2,
+      "count": 3,
+      "title": "知识探索站",
+      "status": "Only 认真听讲 is completed: change its bottom check-circle icon and 已完成 lettering from green to LAVENDER #B0A0FF. It has NO background bar or button; status is bare icon+text. Keep approval stamp. Preserve 写作业 timer12:36 and 结束, 阅读 至少15分钟 and 开始.",
+      "prompt": "Use case: precise-object-edit. EDIT ONLY THE ATTACHED UI SECTION. This is one section of a continuous iPhone screenshot; preserve every existing illustrated element, Chinese text, point value, task order, state, timer, decorative header building, stamp and group count. Do NOT invent or remove any element except completed-status button backgrounds as requested. Do not redesign artwork or replace the panda, objects or header.\nRequested edit: normalize all task cards and action buttons to a strict fixed-size system, reducing width-to-height ratio (cards become consistently portrait). Preserve image aspect ratios INSIDE the cards; rearrange existing elements with whitespace, never stretch the characters or illustrations.\nPIXEL GRID, SAME FOR EVERY SECTION:\nOutput width1170px with solid pale #F3F4FA outside edges. Section edges x36 and1134, matching source. Header area height180px; preserve original header illustration and title within this area, reduce only its overall scale proportionally if needed.\nTwo equal card columns: x60 and603. Every card EXACTLY507px wide by570px tall, rounded corners30px. First row y180, every next row y804 then1428; row gap54px. Odd final card stays left, empty right cell with NO placeholder or plus sign. NO single column.\nCard interior from top: text title and goldstar+points on one line; same original large illustration on separate central row scaled to fit its 270px illustration area; timer or existing short description below image; action/status anchored at common bottom baseline. All artwork fully visible. Same font sizes on all cards, don't shrink late rows.\nEvery active, running, pending and disabled action button EXACTLY435px wide by120px tall, corner radius30px, positioned36px from each card side and24px from bottom. Identical shape and size across all cards irrespective of label length. Keep original color semantics: section-colored primary action, amberpending, graylocked. No changes to text. Completed status occupies this same bottom layout space but with NO rectangular/pill background, no border, no button fill: only a small check-circle icon and 已完成 in section theme color.\nPreserve pale card surfaces and approval stamps. No hero, nav, tabbar or footer in this section. No mockup phone or outside presentation background. Exactly the same UI section as reference, only normalized dimensions and requested status color/background. Keep all edges and full border visible, do not crop the last row.\n\nSECTION: 知识探索站, theme#B0A0FF, exactly2rows and3cards. Output1170x1398px. Only 认真听讲 is completed: change its bottom check-circle icon and 已完成 lettering from green to LAVENDER #B0A0FF. It has NO background bar or button; status is bare icon+text. Keep approval stamp. Preserve 写作业 timer12:36 and 结束, 阅读 至少15分钟 and 开始."
+    },
+    {
+      "name": "life",
+      "ref": "03-life-reference",
+      "color": "#00D2E0",
+      "rows": 3,
+      "count": 5,
+      "title": "生活空间站",
+      "status": "Only 收拾玩具 and 自己穿衣 are completed: change their bottom check-circle icon and 已完成 lettering from green to CYAN #00D2E0. NO background bars or buttons under these statuses; bare icon+text. Keep approval stamps. Preserve amber 待确认 on 干净卫生, cyan打卡 on others.",
+      "prompt": "Use case: precise-object-edit. EDIT ONLY THE ATTACHED UI SECTION. This is one section of a continuous iPhone screenshot; preserve every existing illustrated element, Chinese text, point value, task order, state, timer, decorative header building, stamp and group count. Do NOT invent or remove any element except completed-status button backgrounds as requested. Do not redesign artwork or replace the panda, objects or header.\nRequested edit: normalize all task cards and action buttons to a strict fixed-size system, reducing width-to-height ratio (cards become consistently portrait). Preserve image aspect ratios INSIDE the cards; rearrange existing elements with whitespace, never stretch the characters or illustrations.\nPIXEL GRID, SAME FOR EVERY SECTION:\nOutput width1170px with solid pale #F3F4FA outside edges. Section edges x36 and1134, matching source. Header area height180px; preserve original header illustration and title within this area, reduce only its overall scale proportionally if needed.\nTwo equal card columns: x60 and603. Every card EXACTLY507px wide by570px tall, rounded corners30px. First row y180, every next row y804 then1428; row gap54px. Odd final card stays left, empty right cell with NO placeholder or plus sign. NO single column.\nCard interior from top: text title and goldstar+points on one line; same original large illustration on separate central row scaled to fit its 270px illustration area; timer or existing short description below image; action/status anchored at common bottom baseline. All artwork fully visible. Same font sizes on all cards, don't shrink late rows.\nEvery active, running, pending and disabled action button EXACTLY435px wide by120px tall, corner radius30px, positioned36px from each card side and24px from bottom. Identical shape and size across all cards irrespective of label length. Keep original color semantics: section-colored primary action, amberpending, graylocked. No changes to text. Completed status occupies this same bottom layout space but with NO rectangular/pill background, no border, no button fill: only a small check-circle icon and 已完成 in section theme color.\nPreserve pale card surfaces and approval stamps. No hero, nav, tabbar or footer in this section. No mockup phone or outside presentation background. Exactly the same UI section as reference, only normalized dimensions and requested status color/background. Keep all edges and full border visible, do not crop the last row.\n\nSECTION: 生活空间站, theme#00D2E0, exactly3rows and5cards. Output1170x2022px. Only 收拾玩具 and 自己穿衣 are completed: change their bottom check-circle icon and 已完成 lettering from green to CYAN #00D2E0. NO background bars or buttons under these statuses; bare icon+text. Keep approval stamps. Preserve amber 待确认 on 干净卫生, cyan打卡 on others."
+    },
+    {
+      "name": "courage",
+      "ref": "04-courage-reference",
+      "color": "#FF375F",
+      "rows": 2,
+      "count": 4,
+      "title": "勇气成长站",
+      "status": "No completed cards in this group. Preserve ALL existing copy, states, art, buttons. Keep promptness gray lock 尚未解锁 and all other buttons rose打卡.",
+      "prompt": "Use case: precise-object-edit. EDIT ONLY THE ATTACHED UI SECTION. This is one section of a continuous iPhone screenshot; preserve every existing illustrated element, Chinese text, point value, task order, state, timer, decorative header building, stamp and group count. Do NOT invent or remove any element except completed-status button backgrounds as requested. Do not redesign artwork or replace the panda, objects or header.\nRequested edit: normalize all task cards and action buttons to a strict fixed-size system, reducing width-to-height ratio (cards become consistently portrait). Preserve image aspect ratios INSIDE the cards; rearrange existing elements with whitespace, never stretch the characters or illustrations.\nPIXEL GRID, SAME FOR EVERY SECTION:\nOutput width1170px with solid pale #F3F4FA outside edges. Section edges x36 and1134, matching source. Header area height180px; preserve original header illustration and title within this area, reduce only its overall scale proportionally if needed.\nTwo equal card columns: x60 and603. Every card EXACTLY507px wide by570px tall, rounded corners30px. First row y180, every next row y804 then1428; row gap54px. Odd final card stays left, empty right cell with NO placeholder or plus sign. NO single column.\nCard interior from top: text title and goldstar+points on one line; same original large illustration on separate central row scaled to fit its 270px illustration area; timer or existing short description below image; action/status anchored at common bottom baseline. All artwork fully visible. Same font sizes on all cards, don't shrink late rows.\nEvery active, running, pending and disabled action button EXACTLY435px wide by120px tall, corner radius30px, positioned36px from each card side and24px from bottom. Identical shape and size across all cards irrespective of label length. Keep original color semantics: section-colored primary action, amberpending, graylocked. No changes to text. Completed status occupies this same bottom layout space but with NO rectangular/pill background, no border, no button fill: only a small check-circle icon and 已完成 in section theme color.\nPreserve pale card surfaces and approval stamps. No hero, nav, tabbar or footer in this section. No mockup phone or outside presentation background. Exactly the same UI section as reference, only normalized dimensions and requested status color/background. Keep all edges and full border visible, do not crop the last row.\n\nSECTION: 勇气成长站, theme#FF375F, exactly2rows and4cards. Output1170x1398px. No completed cards in this group. Preserve ALL existing copy, states, art, buttons. Keep promptness gray lock 尚未解锁 and all other buttons rose打卡."
+    }
+  ],
+  "sources": {
+    "energy": "exec-45541852-02e2-4784-9116-a97eb25810dc.png",
+    "knowledge": "exec-9aab83df-f1e6-49e6-aaa2-4b30dc4bed56.png",
+    "life": "exec-83f127a1-19e2-465c-8af1-888652e0a212.png",
+    "courage": "exec-642e4eda-9caa-4321-bf97-c7404fd8206f.png"
+  },
+  "sourceDirectory": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a",
+  "output": {
+    "path": "Artwork/Designs/多多打卡-统一卡片与按钮设计稿-v5.png",
+    "width": 1170,
+    "height": 9004,
+    "sha256": "5511123a07fb52d5ee9e631cbd0b002613882c40321076513ff59cda158f2ef4",
+    "assembly": "FullHome-v5/assemble.swift",
+    "layout": "FullHome-v5/layout.json",
+    "geometryVerified": true,
+    "note": "ImageGen section edits assembled on exact fixed card/button grid. Original v4 top and footer retained."
+  }
+}

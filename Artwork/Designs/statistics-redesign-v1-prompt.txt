@@ -1,0 +1,24 @@
+Use case: ui-mockup / style-transfer.
+Create a polished COMPLETE LONG SCROLLING iPhone UI design mockup for the Chinese children's habit app 多多打卡, screen 打卡统计, suitable for a 6-year-old. Use the attached REAL statistics screenshot as the functional and data source of truth. Redesign visuals only: keep every section, statistic, reward condition, empty state, calendar navigation, history detail entry and three native tabs. Deliver ONE high-resolution narrow portrait full-page image, ideally 1170 x 6300 or a similar 1:5.3 long aspect ratio. This is a development-ready scrolling screen, not a poster, not multiple phones or multiple columns of screens. The whole page must be shown without cropping. Do not draw an external phone mockup or surrounding canvas.
+
+Art direction: light, delightful premium iOS design for a six-year-old, consistent with a soft 3D toy panda astronaut space-exploration app. Off-white / very pale lavender app background, restrained small floating stars, soft lilac glass and cloud edging, soft orange/yellow stars, cyan accents and a cute small panda astronaut. Clean native iOS SF-like Chinese rounded typography, very legible dark navy text, large numerals, clear visual hierarchy and generous row spacing. Limit scenery to header and small corner decoration; never put textured artwork behind data/text. Warm encouraging feeling, not an adult finance dashboard, not a noisy arcade game. Cards rounded, cohesive, lightly tinted; the current values must remain accurate, zeros must not be turned into earned rewards. Decorative planets, rocket, treasure and stickers are visual ornament only, do not imply new buttons, games, redemption or functionality. Daily/weekly/monthly sections remain single full-width cards; inside metric grids use two columns. Approx 10pt outer horizontal margins at a 390pt phone width; 12-16pt inner padding; Chinese body readable at phone scale.
+
+Keep native iOS status bar, centered navigation title '打卡统计' at very top and native iOS translucent TabView at very bottom, no custom illustrated navigation. Tabs exactly '今日打卡', '打卡统计' SELECTED, '积分消耗', with SF-like sparkles / bar chart / star icons. Native Home indicator. No repeating navigation or tab bars in the scroll content.
+
+Full vertical content, preserve this order and ALL fields:
+1. Compact cheerful header, title '每一步成长，都算数', subtitle '这里只统计家长确认的有效打卡', accompanied by friendly waving panda astronaut holding a small star and restrained planet backdrop.
+2. TODAY orange/gold-accent card: '今日战绩', '目标 13 分'. 2x2 equal metric cells: '0 次' + '有效次数'; '0 分' + '有效打卡分'; '0 分' + '奖励分'; '0 分' + '合计积分'. Small themed icons in cells, zero goal progress remains zero.
+3. WEEK lavender-accent card: '本周探索', '0 / 7 天达标'. 2x2 metrics: '0 次' / '有效次数'; '0.0 %' / '打卡率'; '0 分' / '有效打卡分'; '0 分' / '奖励分'. Then '合计积分' and '0 分'. Show existing progress as 0 of 7 in a playful seven-node star trail, no nodes earned and no new interaction. Reward row with treasure illustration: '周一至周日全部达标', '奖励 10 分', status '探索中'. Then '最常点亮的任务', EMPTY state with mini panda telescope: '星星正在等你点亮。' '完成打卡后，记得请家长确认哦。' Do NOT invent weekly top missions.
+4. MONTH cyan/purple-accent card: '本月探索', '1 / 30 天达标'. 2x2 metrics: '11 次' / '有效次数'; '17.7 %' / '打卡率'; '14 分' / '有效打卡分'; '0 分' / '奖励分'. Then '合计积分' and '14 分'. Existing progress bar 1 out of 30, nearly empty. Two existing reward rows, both '探索中': '累计 25 天' with '奖励 50 分'; '全月每天达标' with '再补 50 分 · 月度合计 100 分'. Do not show 150 points or imply already earned. Then '最常点亮的任务', cute SMALL medals aligned in three compact rows (not a new leaderboard function): rank 1 '吃早饭' '1 次', rank 2 '吃午饭' '1 次', rank 3 '睡觉' '1 次'. Keep all 3.
+5. '成长日历' white/light card with decorative small space arch on header corners, native-looking back/forward month arrows, title '2026 年 9 月'. 7 columns Monday-first exact headers '一 二 三 四 五 六 日'. Exact month rows:
+blank,1,2,3,4,5,6
+7,8,9,10,11,12,13
+14,15,16,17,18,19,20
+21,22,23,24,25,26,27
+28,29,30,blank,blank,blank,blank.
+Days 1-17 and 22-30 disabled pale gray. 18 normal, 19 has orange record dot, 20 has teal goal-achieved dot/star, 21 selected in purple rounded square. Legend '达成当日目标' (teal), '有记录' (orange). Preserve calendar as usable normal calendar, no extra rewards or interactions.
+6. Tappable full-width history row: '今天的打卡详情', '自评 0 分 · 有效 0 分', '查看时间、耗时和奖励记录', right chevron.
+7. Small readable footnote verbatim: '打卡率按启用日起至今天的应打卡项目计算，当前每天 17 项，升级前日期沿用原项目数。奖励分不影响每日 13 分目标。'
+8. Bottom native tabs.
+
+All Chinese text must be accurately written and placed on plain backgrounds. All data labels and rewards required. No app code changes. Image should look like a beautifully designed real native iPhone app long screenshot with playful 3D assets, not a dense infographic. Avoid large unused gaps, oversized mascots, unreadable microtext, duplicated sections, cropped bottom calendar or tabs, extra functionality.

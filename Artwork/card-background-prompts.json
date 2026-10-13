@@ -1,0 +1,18 @@
+[
+  {
+    "name": "TaskCardPending",
+    "prompt": "Use case: stylized-concept. Asset type: full-bleed BACKGROUND TEXTURE for a compact children's iOS habit task card, portrait aspect ratio 2:3. Match an existing premium soft 3D clay toy space app in purple #6756D2, mint and gold. This is ONLY a reusable card background, NOT a UI mockup. Absolutely NO text, letters, numbers, buttons, checkboxes, badges, mascot, faces, border frame, rounded corner cutout or watermark. OPAQUE full rectangular canvas. Leave central 80 percent extremely clean and flat pale color so dark native text remains easy to read. Decoration confined to narrow corners and outer edges, very sparse, softly lit, simple small sculpted space details. State: NOT YET COMPLETED / ready for departure. Pale cool lavender ivory background, tiny matte lavender crescent planet at upper right edge, a few very subtle indigo orbital arc fragments at lower right edge, 2 tiny lavender stars near outer corners. Quiet and calm; no celebratory confetti, no gold medal. Central area nearly uniform #F1EEFC.",
+    "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-31a3b831-ffa9-477a-8a91-10907dbebb3d.png",
+    "mode": "generate",
+    "referenceImages": [],
+    "opaqueBackground": true
+  },
+  {
+    "name": "TaskCardCompleted",
+    "prompt": "Use case: stylized-concept. Asset type: full-bleed BACKGROUND TEXTURE for a compact children's iOS habit task card, portrait aspect ratio 2:3. Match an existing premium soft 3D clay toy space app in purple #6756D2, mint and gold. This is ONLY a reusable card background, NOT a UI mockup. Absolutely NO text, letters, numbers, buttons, checkboxes, badges, mascot, faces, border frame, rounded corner cutout or watermark. OPAQUE full rectangular canvas. Leave central 80 percent extremely clean and flat pale color so dark native text remains easy to read. Decoration confined to narrow corners and outer edges, very sparse, softly lit, simple small sculpted space details. State: SUCCESSFULLY COMPLETED / earned a star. Fresh light mint green background distinctly different from the lavender pending state, tiny gold star cluster at upper right edge, soft golden orbital arc fragment at lower right edge, 3 tiny warm golden and mint confetti sparkles near outer corners. Joyful but restrained; central area nearly uniform #DDF6E9. No checkmark icon or text.",
+    "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-00551d57-cd57-4343-a878-29f2e02e348e.png",
+    "mode": "generate",
+    "referenceImages": [],
+    "opaqueBackground": true
+  }
+]

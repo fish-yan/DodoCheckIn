@@ -1,0 +1,48 @@
+import AppKit
+
+let size = 1024
+let bitmap = NSBitmapImageRep(bitmapDataPlanes: nil, pixelsWide: size, pixelsHigh: size, bitsPerSample: 8, samplesPerPixel: 3, hasAlpha: false, isPlanar: false, colorSpaceName: .deviceRGB, bytesPerRow: 0, bitsPerPixel: 0)!
+NSGraphicsContext.saveGraphicsState()
+NSGraphicsContext.current = NSGraphicsContext(bitmapImageRep: bitmap)
+let navy = NSColor(srgbRed: 0.10, green: 0.12, blue: 0.29, alpha: 1)
+let purple = NSColor(srgbRed: 0.40, green: 0.34, blue: 0.82, alpha: 1)
+let mint = NSColor(srgbRed: 0.42, green: 0.90, blue: 0.76, alpha: 1)
+navy.setFill()
+NSBezierPath(rect: NSRect(x: 0, y: 0, width: size, height: size)).fill()
+purple.withAlphaComponent(0.25).setFill()
+NSBezierPath(ovalIn: NSRect(x: 180, y: 180, width: 664, height: 664)).fill()
+for i in 0..<24 {
+    NSColor.white.withAlphaComponent(0.6).setFill()
+    let radius = i % 4 == 0 ? 6 : 3
+    NSBezierPath(ovalIn: NSRect(x: 60 + (i * 173 % 880), y: 60 + (i * 293 % 880), width: radius * 2, height: radius * 2)).fill()
+}
+let rotated = NSAffineTransform()
+rotated.translateX(by: 512, yBy: 510)
+rotated.rotate(byDegrees: -24)
+rotated.concat()
+NSColor.systemOrange.setFill()
+NSBezierPath(ovalIn: NSRect(x: -58, y: -320, width: 116, height: 260)).fill()
+NSColor.systemYellow.setFill()
+NSBezierPath(ovalIn: NSRect(x: -28, y: -270, width: 56, height: 170)).fill()
+let fins = NSBezierPath()
+fins.move(to: NSPoint(x: 0, y: 100))
+fins.curve(to: NSPoint(x: 205, y: -185), controlPoint1: NSPoint(x: 130, y: 60), controlPoint2: NSPoint(x: 205, y: -75))
+fins.line(to: NSPoint(x: 0, y: -125))
+fins.line(to: NSPoint(x: -205, y: -185))
+fins.curve(to: NSPoint(x: 0, y: 100), controlPoint1: NSPoint(x: -205, y: -75), controlPoint2: NSPoint(x: -130, y: 60))
+mint.setFill()
+fins.fill()
+NSColor.white.setFill()
+NSBezierPath(roundedRect: NSRect(x: -115, y: -160, width: 230, height: 445), xRadius: 115, yRadius: 160).fill()
+purple.setFill()
+NSBezierPath(ovalIn: NSRect(x: -75, y: 30, width: 150, height: 150)).fill()
+NSColor.systemCyan.setFill()
+NSBezierPath(ovalIn: NSRect(x: -51, y: 54, width: 102, height: 102)).fill()
+NSColor.white.withAlphaComponent(0.7).setFill()
+NSBezierPath(ovalIn: NSRect(x: -30, y: 112, width: 30, height: 22)).fill()
+purple.setFill()
+NSBezierPath(roundedRect: NSRect(x: -18, y: -220, width: 36, height: 130), xRadius: 18, yRadius: 18).fill()
+NSGraphicsContext.restoreGraphicsState()
+let output = CommandLine.arguments[1]
+try bitmap.representation(using: .png, properties: [:])!.write(to: URL(fileURLWithPath: output))
+print(output)

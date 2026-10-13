@@ -1,0 +1,8 @@
+{
+  "generator": "Built-in image_gen.imagegen",
+  "reference": "/var/folders/91/gsjly5dd1ps4qmy0ny3s39p00000gn/T/codex-clipboard-093cd425-0b3c-4d2b-b5cc-f293dcca8c55.png",
+  "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-fc86f22f-3eb4-4141-b616-e7d933a6c655.png",
+  "output": "多多打卡-月度打卡进度优化设计稿.png",
+  "promptFile": "monthly-progress-redesign-prompt.txt",
+  "scope": "按附件中的月度打卡进度设计，仅生成设计稿，未修改 App 代码。"
+}

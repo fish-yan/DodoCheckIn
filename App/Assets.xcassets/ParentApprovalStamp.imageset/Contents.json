@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "filename": "ParentApprovalStamp.png",
+      "idiom": "universal"
+    },
+    {
+      "filename": "ParentApprovalStamp-Dark.png",
+      "idiom": "universal",
+      "appearances": [{ "appearance": "luminosity", "value": "dark" }]
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}

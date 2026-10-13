@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "MissionKindness.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

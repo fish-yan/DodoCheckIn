@@ -1,0 +1,449 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		07F5CCE57A2BD7393D268D9B /* UITests/SpendingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B5C9936983D1520C8ED80F /* UITests/SpendingUITests.swift */; };
+		0EF554380177F08778B5D336 /* App/PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = B3DC004A3F4FD5B3A004E0BE /* App/PrivacyInfo.xcprivacy */; };
+		2C5437E847DAF0AFF0E27A0B /* Sources/DodoCore/SpendingEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF08940EC82E1C15B5CC1A1 /* Sources/DodoCore/SpendingEngine.swift */; };
+		3358E816797D66A5574A1A68 /* Sources/DodoCore/TaskCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41D86EC9DB01E597BC7CEFC4 /* Sources/DodoCore/TaskCatalog.swift */; };
+		4114A2A10096C2752EF5C01B /* Sources/DodoCore/Journal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4167DD68FB29AE9B42F2A14C /* Sources/DodoCore/Journal.swift */; };
+		464B7FCE39CC14FD8DF3E970 /* App/Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A5CCB0147A1F44705D7DBD4 /* App/Assets.xcassets */; };
+		52D5E2150491A48A4980FE9D /* Sources/DodoCore/BeijingCalendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90BA225364D0AA46C735BBB0 /* Sources/DodoCore/BeijingCalendar.swift */; };
+		756425A44ABE2843117C0812 /* Sources/DodoCore/Resources/holiday-cn-LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = C9B3DAB326752EDEC0B85A7B /* Sources/DodoCore/Resources/holiday-cn-LICENSE.txt */; };
+		897553C9BCA1B86CA3FF5508 /* Sources/DodoCore/RewardEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE3BCB59205FE73E51712B1 /* Sources/DodoCore/RewardEngine.swift */; };
+		91289E052A54D2208FFA28BA /* App/SpaceTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA7130C60FB8D981F38995D /* App/SpaceTheme.swift */; };
+		B65CC376757EF825EA910EC0 /* App/SpendingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02A784A0D68990A997F8353 /* App/SpendingView.swift */; };
+		BF0B0838937F66E1FC4AC4EF /* App/TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFA67E57CC9EAC2FD2FF5F5 /* App/TodayView.swift */; };
+		CA6DD980FCCF937E621C2E47 /* App/ParentGateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB99CE1D86625DBAC804BB0 /* App/ParentGateView.swift */; };
+		CF3FBF16B3B3421B23D5BB4A /* Sources/DodoCore/CheckInEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FEC2586F881DF9ACC3B302C /* Sources/DodoCore/CheckInEngine.swift */; };
+		D673FAD56CC6BA3101BF35F4 /* App/AppStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45F754067C4A5CEF7AAB478 /* App/AppStore.swift */; };
+		D7C4D05F574EABF75873CB2D /* App/StatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AABD47B8D90347BECD17494D /* App/StatisticsView.swift */; };
+		DEC8AA8C832FC508A0541267 /* App/DodoCheckInApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFC9430E42EA581A639AE2A5 /* App/DodoCheckInApp.swift */; };
+		E32F434081EA199553EF8652 /* Sources/DodoCore/HolidayCalendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E1CFB2E35E49924F439AD9 /* Sources/DodoCore/HolidayCalendar.swift */; };
+		E797F094071653F394D1EB20 /* UITests/AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD038422374B7BB45ACED6B1 /* UITests/AppUITests.swift */; };
+		FE512740E98957ABE79A4055 /* Sources/DodoCore/Resources/2026.json in Resources */ = {isa = PBXBuildFile; fileRef = 0470AD79B1896FA956EF8DBB /* Sources/DodoCore/Resources/2026.json */; };
+		FF46030E6B8593263A617D74 /* Sources/DodoCore/JournalPersistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F82BBEC25DFB1FC51CA48B /* Sources/DodoCore/JournalPersistence.swift */; };
+		5314F751C9E72C7C3F6B998D /* App/SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E56E49BA23317991582BFD23; };
+		16C72F113374A970571D3348 /* Sources/DodoCore/Configuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 359735FD7E8106D658A24057; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7E85D4A68785761E1DBB22D8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F75109BEB4DD8800DA6B45F8;
+			remoteInfo = DodoCheckIn;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0470AD79B1896FA956EF8DBB /* Sources/DodoCore/Resources/2026.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Sources/DodoCore/Resources/2026.json; sourceTree = SOURCE_ROOT; };
+		0FEC2586F881DF9ACC3B302C /* Sources/DodoCore/CheckInEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sources/DodoCore/CheckInEngine.swift; sourceTree = SOURCE_ROOT; };
+		38A007151ABE87CC01A5B6E9 /* DodoCheckIn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = DodoCheckIn.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4167DD68FB29AE9B42F2A14C /* Sources/DodoCore/Journal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sources/DodoCore/Journal.swift; sourceTree = SOURCE_ROOT; };
+		41D86EC9DB01E597BC7CEFC4 /* Sources/DodoCore/TaskCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sources/DodoCore/TaskCatalog.swift; sourceTree = SOURCE_ROOT; };
+		54B5C9936983D1520C8ED80F /* UITests/SpendingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITests/SpendingUITests.swift; sourceTree = SOURCE_ROOT; };
+		5EFA67E57CC9EAC2FD2FF5F5 /* App/TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/TodayView.swift; sourceTree = SOURCE_ROOT; };
+		6C7CCDEB3609F1FAA874E941 /* DodoCheckInUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; path = DodoCheckInUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6EE3BCB59205FE73E51712B1 /* Sources/DodoCore/RewardEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sources/DodoCore/RewardEngine.swift; sourceTree = SOURCE_ROOT; };
+		7A5CCB0147A1F44705D7DBD4 /* App/Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = App/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		90BA225364D0AA46C735BBB0 /* Sources/DodoCore/BeijingCalendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sources/DodoCore/BeijingCalendar.swift; sourceTree = SOURCE_ROOT; };
+		93E1CFB2E35E49924F439AD9 /* Sources/DodoCore/HolidayCalendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sources/DodoCore/HolidayCalendar.swift; sourceTree = SOURCE_ROOT; };
+		A02A784A0D68990A997F8353 /* App/SpendingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/SpendingView.swift; sourceTree = SOURCE_ROOT; };
+		A6F82BBEC25DFB1FC51CA48B /* Sources/DodoCore/JournalPersistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sources/DodoCore/JournalPersistence.swift; sourceTree = SOURCE_ROOT; };
+		AABD47B8D90347BECD17494D /* App/StatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/StatisticsView.swift; sourceTree = SOURCE_ROOT; };
+		AFC9430E42EA581A639AE2A5 /* App/DodoCheckInApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/DodoCheckInApp.swift; sourceTree = SOURCE_ROOT; };
+		B3DC004A3F4FD5B3A004E0BE /* App/PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = App/PrivacyInfo.xcprivacy; sourceTree = SOURCE_ROOT; };
+		C9B3DAB326752EDEC0B85A7B /* Sources/DodoCore/Resources/holiday-cn-LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Sources/DodoCore/Resources/holiday-cn-LICENSE.txt"; sourceTree = SOURCE_ROOT; };
+		CFA7130C60FB8D981F38995D /* App/SpaceTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/SpaceTheme.swift; sourceTree = SOURCE_ROOT; };
+		E45F754067C4A5CEF7AAB478 /* App/AppStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/AppStore.swift; sourceTree = SOURCE_ROOT; };
+		EDF08940EC82E1C15B5CC1A1 /* Sources/DodoCore/SpendingEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sources/DodoCore/SpendingEngine.swift; sourceTree = SOURCE_ROOT; };
+		EFB99CE1D86625DBAC804BB0 /* App/ParentGateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App/ParentGateView.swift; sourceTree = SOURCE_ROOT; };
+		FD038422374B7BB45ACED6B1 /* UITests/AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITests/AppUITests.swift; sourceTree = SOURCE_ROOT; };
+		E56E49BA23317991582BFD23 /* App/SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "App/SettingsView.swift"; sourceTree = SOURCE_ROOT; };
+		359735FD7E8106D658A24057 /* Sources/DodoCore/Configuration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources/DodoCore/Configuration.swift"; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7561BFB015D8F536760CB671 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E05DB79C430AA1B0BA487AFC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		870B3294C0CBD48AF6BBCC1B = {
+			isa = PBXGroup;
+			children = (
+				E45F754067C4A5CEF7AAB478 /* App/AppStore.swift */,
+				359735FD7E8106D658A24057 /* Sources/DodoCore/Configuration.swift */,
+				E56E49BA23317991582BFD23 /* App/SettingsView.swift */,
+				AFC9430E42EA581A639AE2A5 /* App/DodoCheckInApp.swift */,
+				EFB99CE1D86625DBAC804BB0 /* App/ParentGateView.swift */,
+				CFA7130C60FB8D981F38995D /* App/SpaceTheme.swift */,
+				A02A784A0D68990A997F8353 /* App/SpendingView.swift */,
+				AABD47B8D90347BECD17494D /* App/StatisticsView.swift */,
+				5EFA67E57CC9EAC2FD2FF5F5 /* App/TodayView.swift */,
+				90BA225364D0AA46C735BBB0 /* Sources/DodoCore/BeijingCalendar.swift */,
+				0FEC2586F881DF9ACC3B302C /* Sources/DodoCore/CheckInEngine.swift */,
+				93E1CFB2E35E49924F439AD9 /* Sources/DodoCore/HolidayCalendar.swift */,
+				4167DD68FB29AE9B42F2A14C /* Sources/DodoCore/Journal.swift */,
+				A6F82BBEC25DFB1FC51CA48B /* Sources/DodoCore/JournalPersistence.swift */,
+				6EE3BCB59205FE73E51712B1 /* Sources/DodoCore/RewardEngine.swift */,
+				EDF08940EC82E1C15B5CC1A1 /* Sources/DodoCore/SpendingEngine.swift */,
+				41D86EC9DB01E597BC7CEFC4 /* Sources/DodoCore/TaskCatalog.swift */,
+				7A5CCB0147A1F44705D7DBD4 /* App/Assets.xcassets */,
+				B3DC004A3F4FD5B3A004E0BE /* App/PrivacyInfo.xcprivacy */,
+				0470AD79B1896FA956EF8DBB /* Sources/DodoCore/Resources/2026.json */,
+				C9B3DAB326752EDEC0B85A7B /* Sources/DodoCore/Resources/holiday-cn-LICENSE.txt */,
+				FD038422374B7BB45ACED6B1 /* UITests/AppUITests.swift */,
+				54B5C9936983D1520C8ED80F /* UITests/SpendingUITests.swift */,
+				FBDC4F23F93125BBEEAE800C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FBDC4F23F93125BBEEAE800C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				38A007151ABE87CC01A5B6E9 /* DodoCheckIn.app */,
+				6C7CCDEB3609F1FAA874E941 /* DodoCheckInUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C062A5A4A7F4F37DD90F54CB /* DodoCheckInUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0AD37307DFDAE852A779B369 /* Build configuration list for PBXNativeTarget "DodoCheckInUITests" */;
+			buildPhases = (
+				77A03FEE20FE96AD9384861E /* Sources */,
+				E05DB79C430AA1B0BA487AFC /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BAE932EF166B50AB877FDC6F /* PBXTargetDependency */,
+			);
+			name = DodoCheckInUITests;
+			productName = DodoCheckInUITests;
+			productReference = 6C7CCDEB3609F1FAA874E941 /* DodoCheckInUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		F75109BEB4DD8800DA6B45F8 /* DodoCheckIn */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9EA62D25DFD1EFBA21F6DE7B /* Build configuration list for PBXNativeTarget "DodoCheckIn" */;
+			buildPhases = (
+				BCE16DD0260827ECF338C787 /* Sources */,
+				7561BFB015D8F536760CB671 /* Frameworks */,
+				0189424A5A60FED329FA868E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DodoCheckIn;
+			productName = DodoCheckIn;
+			productReference = 38A007151ABE87CC01A5B6E9 /* DodoCheckIn.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		98F54143AB4E86B28C3AFEE0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2700;
+			};
+			buildConfigurationList = 247BF104A9AD002C539DA531 /* Build configuration list for PBXProject "DodoCheckIn" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = "zh-Hans";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				"zh-Hans",
+				en,
+				Base,
+			);
+			mainGroup = 870B3294C0CBD48AF6BBCC1B;
+			productRefGroup = FBDC4F23F93125BBEEAE800C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F75109BEB4DD8800DA6B45F8 /* DodoCheckIn */,
+				C062A5A4A7F4F37DD90F54CB /* DodoCheckInUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0189424A5A60FED329FA868E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				464B7FCE39CC14FD8DF3E970 /* App/Assets.xcassets in Resources */,
+				0EF554380177F08778B5D336 /* App/PrivacyInfo.xcprivacy in Resources */,
+				FE512740E98957ABE79A4055 /* Sources/DodoCore/Resources/2026.json in Resources */,
+				756425A44ABE2843117C0812 /* Sources/DodoCore/Resources/holiday-cn-LICENSE.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		77A03FEE20FE96AD9384861E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E797F094071653F394D1EB20 /* UITests/AppUITests.swift in Sources */,
+				07F5CCE57A2BD7393D268D9B /* UITests/SpendingUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BCE16DD0260827ECF338C787 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D673FAD56CC6BA3101BF35F4 /* App/AppStore.swift in Sources */,
+				16C72F113374A970571D3348 /* Sources/DodoCore/Configuration.swift in Sources */,
+				5314F751C9E72C7C3F6B998D /* App/SettingsView.swift in Sources */,
+				DEC8AA8C832FC508A0541267 /* App/DodoCheckInApp.swift in Sources */,
+				CA6DD980FCCF937E621C2E47 /* App/ParentGateView.swift in Sources */,
+				91289E052A54D2208FFA28BA /* App/SpaceTheme.swift in Sources */,
+				B65CC376757EF825EA910EC0 /* App/SpendingView.swift in Sources */,
+				D7C4D05F574EABF75873CB2D /* App/StatisticsView.swift in Sources */,
+				BF0B0838937F66E1FC4AC4EF /* App/TodayView.swift in Sources */,
+				52D5E2150491A48A4980FE9D /* Sources/DodoCore/BeijingCalendar.swift in Sources */,
+				CF3FBF16B3B3421B23D5BB4A /* Sources/DodoCore/CheckInEngine.swift in Sources */,
+				E32F434081EA199553EF8652 /* Sources/DodoCore/HolidayCalendar.swift in Sources */,
+				4114A2A10096C2752EF5C01B /* Sources/DodoCore/Journal.swift in Sources */,
+				FF46030E6B8593263A617D74 /* Sources/DodoCore/JournalPersistence.swift in Sources */,
+				897553C9BCA1B86CA3FF5508 /* Sources/DodoCore/RewardEngine.swift in Sources */,
+				2C5437E847DAF0AFF0E27A0B /* Sources/DodoCore/SpendingEngine.swift in Sources */,
+				3358E816797D66A5574A1A68 /* Sources/DodoCore/TaskCatalog.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BAE932EF166B50AB877FDC6F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F75109BEB4DD8800DA6B45F8 /* DodoCheckIn */;
+			targetProxy = 7E85D4A68785761E1DBB22D8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		23FB2CAEB38545C3793097DD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = QXWB3CM2YU;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "多多打卡";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duoduo.checkin;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		3CF6A4F2E05B3AAE7E2CBFEE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = QXWB3CM2YU;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "多多打卡";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duoduo.checkin;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		877A6BA951A2EA0025A2ABE8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		959134B361DD7E21ADEA3164 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		B4343C19535B18410503AED7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.duoduo.checkin.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = DodoCheckIn;
+			};
+			name = Release;
+		};
+		E2657B9FA91DD4A55652006F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duoduo.checkin.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_STRICT_CONCURRENCY = complete;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = DodoCheckIn;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0AD37307DFDAE852A779B369 /* Build configuration list for PBXNativeTarget "DodoCheckInUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2657B9FA91DD4A55652006F /* Debug */,
+				B4343C19535B18410503AED7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		247BF104A9AD002C539DA531 /* Build configuration list for PBXProject "DodoCheckIn" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				877A6BA951A2EA0025A2ABE8 /* Debug */,
+				959134B361DD7E21ADEA3164 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9EA62D25DFD1EFBA21F6DE7B /* Build configuration list for PBXNativeTarget "DodoCheckIn" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CF6A4F2E05B3AAE7E2CBFEE /* Debug */,
+				23FB2CAEB38545C3793097DD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 98F54143AB4E86B28C3AFEE0 /* Project object */;
+}

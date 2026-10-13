@@ -1,0 +1,656 @@
+{
+  "generator": "Built-in image_gen.imagegen",
+  "version": 1,
+  "assets": [
+    {
+      "name": "AppIcon",
+      "prompt": "Use case: logo-brand. Create a final production iOS app icon for a Chinese children's daily habit app called 多多打卡. NO TEXT anywhere. One square 1024x1024 full-bleed opaque image, no rounded corner mask, no icon mockup or device. Original mascot: a charming baby PANDA astronaut, round white face, two small black ears, black panda eye patches with happy expressive dark eyes, tiny smiling mouth, inside a large clear bubble space helmet with a matte warm ivory rim and a mint-green neck collar. The panda hugs a single large golden five-point achievement star in front of its little ivory space suit. Style: exquisite soft 3D clay toy, gently tactile matte materials, not photoreal, premium preschool educational game art for age six, simple sculpted shapes, lovely and confident rather than infantile. Palette aligned to existing app: lavender purple #6756D2, deep midnight indigo #1A1F4A, mint #6BE6C2, warm gold #FFCA59 and ivory. Background fills the entire square in rich lavender-purple with subtle radial light; only 3 tiny four-point star accents. Face/helmet is the primary silhouette; mascot fills 78 percent of the image with 10 percent safe margin. Clear legibility at 60px. Front three-quarter view, soft top-left light, crisp professional edges, perfectly clean silhouette. Avoid excessive sparkles, noise, words, numbers, badges, frames, watermarks, realistic people, extra limbs. This mascot establishes the visual style for all subsequent in-app illustrations.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-954a4741-08d2-4701-9ad4-e3c42a4fed79.png",
+      "assetPath": "App/Assets.xcassets/AppIcon.appiconset/AppIcon-ImageGen-v1.png",
+      "sha256": "c0723e47033616abd0aff0d3d215267ef217d79960720ec5a4d988fff6e512ce",
+      "maximumPixelDimension": 1024,
+      "mode": "generate",
+      "referenceImages": []
+    },
+    {
+      "name": "AstronautWave",
+      "prompt": "Use case: stylized-concept. Reference image is a STYLE AND MASCOT REFERENCE, not an edit target. Create a separate production PNG illustration for a six-year-old's space habit iOS app. Match exactly this original happy baby panda astronaut: white face, black ears and eye patches, ivory suit, clear bubble helmet, mint collar, purple details. Same soft premium 3D clay/plush toy aesthetic and top-left soft lighting, indigo/purple/mint/gold palette. NO TEXT, letters, numbers, logo, border, UI, watermark. Single centered cutout with complete silhouette and at least 10 percent transparent margin on every side. GENUINE transparent alpha background, absolutely no white/colored rectangle or checkerboard baked into pixels, no backdrop or floor. Full body mascot floating weightlessly and waving hello with one hand, other hand resting near chest, two small rounded feet visible, friendly delighted expression. A single tiny golden star floating near the raised hand. Compact vertical composition that reads clearly in a 110 point home header.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-2dc693b3-0c0c-4daa-a8b6-cf310495ce14.png",
+      "assetPath": "App/Assets.xcassets/AstronautWave.imageset/AstronautWave.png",
+      "sha256": "3af833b56a61c680ee5e355522a5bf721d4d1f039b58ff214c4c5782fd5bb5f8",
+      "maximumPixelDimension": 768,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-954a4741-08d2-4701-9ad4-e3c42a4fed79.png"
+      ]
+    },
+    {
+      "name": "SpaceRocket",
+      "prompt": "Use case: stylized-concept. Reference image is a STYLE AND MASCOT REFERENCE, not an edit target. Create a separate production PNG illustration for a six-year-old's space habit iOS app. Match exactly this original happy baby panda astronaut: white face, black ears and eye patches, ivory suit, clear bubble helmet, mint collar, purple details. Same soft premium 3D clay/plush toy aesthetic and top-left soft lighting, indigo/purple/mint/gold palette. NO TEXT, letters, numbers, logo, border, UI, watermark. Single centered cutout with complete silhouette and at least 10 percent transparent margin on every side. GENUINE transparent alpha background, absolutely no white/colored rectangle or checkerboard baked into pixels, no backdrop or floor. Subject is ONLY a charming small toy spaceship, no panda and no people. Upright ivory rocket tilted 20 degrees right with chunky mint fins, round lavender-rimmed cyan window and a small golden flame. Very clean bold silhouette; full rocket, fins and flame contained. Designed to read at 80 points. Genuine transparent background.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-5c8e4083-39fb-4511-b776-dea835a91a05.png",
+      "assetPath": "App/Assets.xcassets/SpaceRocket.imageset/SpaceRocket.png",
+      "sha256": "1524d40d75aeb48e927c04d0570f9b640851f1d9bc7a7c16d5c4aae173787b74",
+      "maximumPixelDimension": 768,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-954a4741-08d2-4701-9ad4-e3c42a4fed79.png"
+      ]
+    },
+    {
+      "name": "CelebrationPanda",
+      "prompt": "Use case: stylized-concept. Reference image is a STYLE AND MASCOT REFERENCE, not an edit target. Create a separate production PNG illustration for a six-year-old's space habit iOS app. Match exactly this original happy baby panda astronaut: white face, black ears and eye patches, ivory suit, clear bubble helmet, mint collar, purple details. Same soft premium 3D clay/plush toy aesthetic and top-left soft lighting, indigo/purple/mint/gold palette. NO TEXT, letters, numbers, logo, border, UI, watermark. Single centered cutout with complete silhouette and at least 10 percent transparent margin on every side. GENUINE transparent alpha background, absolutely no white/colored rectangle or checkerboard baked into pixels, no backdrop or floor. Full body same panda astronaut joyfully jumping, both arms raised, holding one little gold star in one paw, smiling with eyes open. Two tiny floating gold stars around the helmet. A cheerful successful-check-in reward sticker, balanced square composition and soft matte rendering. Two arms, two legs, correct anatomy.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-ccd560c2-11d7-4bfc-bae4-100e9f94c031.png",
+      "assetPath": "App/Assets.xcassets/CelebrationPanda.imageset/CelebrationPanda.png",
+      "sha256": "0a88ffefb08eac1621e38ffaeb3c00622280c59fdf155bc29e1e2c6b52cc1c18",
+      "maximumPixelDimension": 768,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-954a4741-08d2-4701-9ad4-e3c42a4fed79.png"
+      ]
+    },
+    {
+      "name": "PlanetMercury",
+      "prompt": "Use case: stylized-concept. Create ONE production in-app planet illustration, matching the reference image's premium soft matte 3D clay toy style, soft top-left lighting and charming preschool space exploration aesthetic. The reference is only a STYLE reference; NO panda, mascot, face or helmet. One centered complete isolated spherical planet, ample 12 percent empty margin, square composition, GENUINE transparent alpha background. No background, floor, backdrop, labels, text, stars, UI, border or watermark. Strong silhouette readable at 64 points. Mercury: warm grey and taupe rocky sphere with a few big softly sculpted round craters, subtle shaded volume, no rings.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-f9093e2e-55cc-4ae2-a0c6-c38c0452f42f.png",
+      "assetPath": "App/Assets.xcassets/PlanetMercury.imageset/PlanetMercury.png",
+      "sha256": "ab2efb739a84789c229baee89e6510b7b1c424f20244315a01b904c9782b524e",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-954a4741-08d2-4701-9ad4-e3c42a4fed79.png"
+      ]
+    },
+    {
+      "name": "PlanetVenus",
+      "prompt": "Use case: stylized-concept. Create ONE production in-app planet illustration, matching the reference image's premium soft matte 3D clay toy style, soft top-left lighting and charming preschool space exploration aesthetic. The reference is only a STYLE reference; NO panda, mascot, face or helmet. One centered complete isolated spherical planet, ample 12 percent empty margin, square composition, GENUINE transparent alpha background. No background, floor, backdrop, labels, text, stars, UI, border or watermark. Strong silhouette readable at 64 points. Venus: warm cream and golden amber sphere wrapped in gentle broad swirling cloudy bands. No rings.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-c14e5cfb-26e1-41db-a5ff-55ec8ff84269.png",
+      "assetPath": "App/Assets.xcassets/PlanetVenus.imageset/PlanetVenus.png",
+      "sha256": "8c5960f3aa158a668a0832a5cc817469563b3c250483a514ec5f86b668ee98c1",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-954a4741-08d2-4701-9ad4-e3c42a4fed79.png"
+      ]
+    },
+    {
+      "name": "PlanetEarth",
+      "prompt": "Use case: stylized-concept. Create ONE production in-app planet illustration, matching the reference image's premium soft matte 3D clay toy style, soft top-left lighting and charming preschool space exploration aesthetic. The reference is only a STYLE reference; NO panda, mascot, face or helmet. One centered complete isolated spherical planet, ample 12 percent empty margin, square composition, GENUINE transparent alpha background. No background, floor, backdrop, labels, text, stars, UI, border or watermark. Strong silhouette readable at 64 points. Earth: brilliant ocean blue sphere with recognizable green continental shapes, a few gentle ivory white clouds. Cheerful toy globe, no rings.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-fcdc4629-b331-4e45-922d-666eaa1fb8b1.png",
+      "assetPath": "App/Assets.xcassets/PlanetEarth.imageset/PlanetEarth.png",
+      "sha256": "f10e1e6602822405fc9b30a961773658413d8f7e37e802ffae7771e86da8a2b0",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-954a4741-08d2-4701-9ad4-e3c42a4fed79.png"
+      ]
+    },
+    {
+      "name": "PlanetMars",
+      "prompt": "Use case: stylized-concept. Create ONE production in-app planet illustration, matching the reference image's premium soft matte 3D clay toy style, soft top-left lighting and charming preschool space exploration aesthetic. The reference is only a STYLE reference; NO panda, mascot, face or helmet. One centered complete isolated spherical planet, ample 12 percent empty margin, square composition, GENUINE transparent alpha background. No background, floor, backdrop, labels, text, stars, UI, border or watermark. Strong silhouette readable at 64 points. Mars: warm coral terracotta red rocky sphere, gentle rounded craters and tiny pale polar cap, no rings.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-7819eff8-4e4e-4010-a8a9-0cbc754216fe.png",
+      "assetPath": "App/Assets.xcassets/PlanetMars.imageset/PlanetMars.png",
+      "sha256": "225234e4daa041dbb6ac0ec59c8e85e75c125385bddc435d90a6963ac2e4610d",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-954a4741-08d2-4701-9ad4-e3c42a4fed79.png"
+      ]
+    },
+    {
+      "name": "PlanetJupiter",
+      "prompt": "Edit this transparent cutout toy planet into JUPITER. Preserve its genuine transparent alpha background, centered sphere and soft matte clay texture. Change the surface to broad cream, peach and caramel HORIZONTAL cloud stripes plus one small terracotta oval Great Red Spot. No rings, no stars, no panda, no text, no backdrop, no checkerboard. Only one complete Jupiter with clear transparent margins on all sides. Production PNG sticker.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a8f84764-b444-458e-82b2-5585cfd1ba04.png",
+      "assetPath": "App/Assets.xcassets/PlanetJupiter.imageset/PlanetJupiter.png",
+      "sha256": "bd8a7836ceba6a0a3fbacb198a844b43d0f2571c131640c380fa99ed8432a6cc",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-c14e5cfb-26e1-41db-a5ff-55ec8ff84269.png"
+      ]
+    },
+    {
+      "name": "PlanetSaturn",
+      "prompt": "EDIT the reference transparent planet cutout into a different planet. Preserve GENUINE TRANSPARENT ALPHA BACKGROUND and soft clay toy aesthetic, top-left light, square canvas. No text, no face, no panda, no stars, no backdrop, NO CHECKERBOARD pixels. Single planet only. Saturn: shrink the golden cream globe to 50 percent canvas width, add a broad tilted lavender and gold ring around it, show entire ring within 12 percent transparent margins. Simple matte toy planet.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-5684e3fe-38b4-4cc2-9627-22e47fa6c2ec.png",
+      "assetPath": "App/Assets.xcassets/PlanetSaturn.imageset/PlanetSaturn.png",
+      "sha256": "1446d594d7413ab4abffc6e3c3c434a71b856a2588f55708e1cea95e874cdd16",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-c14e5cfb-26e1-41db-a5ff-55ec8ff84269.png"
+      ]
+    },
+    {
+      "name": "PlanetUranus",
+      "prompt": "EDIT the reference transparent planet cutout into a different planet. Preserve GENUINE TRANSPARENT ALPHA BACKGROUND and soft clay toy aesthetic, top-left light, square canvas. No text, no face, no panda, no stars, no backdrop, NO CHECKERBOARD pixels. Single planet only. Uranus: change globe color to very pale icy cyan mint, nearly smooth surface with only subtle cloud bands. No rings, no other objects.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-96847e22-f1d6-4868-8d5f-7e7156de345a.png",
+      "assetPath": "App/Assets.xcassets/PlanetUranus.imageset/PlanetUranus.png",
+      "sha256": "776780236be6fdb87226212e3a930cd78970b43b37e6c951538aeb980f1f27bb",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-c14e5cfb-26e1-41db-a5ff-55ec8ff84269.png"
+      ]
+    },
+    {
+      "name": "PlanetNeptune",
+      "prompt": "EDIT the reference transparent planet cutout into a different planet. Preserve GENUINE TRANSPARENT ALPHA BACKGROUND and soft clay toy aesthetic, top-left light, square canvas. No text, no face, no panda, no stars, no backdrop, NO CHECKERBOARD pixels. Single planet only. Neptune: change globe color to deep brilliant azure blue with a few gentle curved blue cloud bands and one tiny lighter blue storm. No rings, no other objects.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-88c0023d-52ad-4f50-aada-b46a0c73eea7.png",
+      "assetPath": "App/Assets.xcassets/PlanetNeptune.imageset/PlanetNeptune.png",
+      "sha256": "5b6d453c70e6a485d37282a45e90bdccb1c1547afa341629f9147e3834e89abe",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-c14e5cfb-26e1-41db-a5ff-55ec8ff84269.png"
+      ]
+    },
+    {
+      "name": "RewardTreasure",
+      "prompt": "Create ONE new cutout matching the reference soft matte 3D clay toy style: a large golden five-point achievement star medal, lavender rim and two short mint and purple ribbons, with a tiny lavender ringed planet embossed in its center. Joyful tangible reward trophy for a six year old. No mascot. Centered square composition with 12 percent margin, complete silhouette. GENUINE TRANSPARENT ALPHA PNG, no background, no floor, no text, no watermark, no checkerboard.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-9314fbd3-95b0-4766-8775-d1a36c960a94.png",
+      "assetPath": "App/Assets.xcassets/RewardTreasure.imageset/RewardTreasure.png",
+      "sha256": "4268794406534f8eca96edaa5dd0d2de466c98ef486880c505b05afd935965a6",
+      "maximumPixelDimension": 768,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-c14e5cfb-26e1-41db-a5ff-55ec8ff84269.png"
+      ]
+    },
+    {
+      "name": "EmptyExplorer",
+      "prompt": "Edit this panda astronaut cutout into a new full body pose: same friendly baby panda in ivory suit, mint collar, purple details and bubble helmet, sitting on a tiny soft lavender crescent moon and peering through a small mint telescope towards a single gold star. Curious and welcoming, no sadness. Preserve soft plush clay texture. Complete centered silhouette with 10 percent margins. GENUINE TRANSPARENT ALPHA background, no background color or scene, no text or watermark or checkerboard. Square compact illustration for empty statistics.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-0ab536b6-ff7e-450d-a415-009bb4455825.png",
+      "assetPath": "App/Assets.xcassets/EmptyExplorer.imageset/EmptyExplorer.png",
+      "sha256": "473b057c1049f302d81f46651dde6023360ca85a4d8e27f10dbd86b487415f2b",
+      "maximumPixelDimension": 768,
+      "mode": "reference-guided generation/edit",
+      "referenceImages": [
+        "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-2dc693b3-0c0c-4daa-a8b6-cf310495ce14.png"
+      ]
+    },
+    {
+      "name": "TaskCardPending",
+      "prompt": "Use case: stylized-concept. Asset type: full-bleed BACKGROUND TEXTURE for a compact children's iOS habit task card, portrait aspect ratio 2:3. Match an existing premium soft 3D clay toy space app in purple #6756D2, mint and gold. This is ONLY a reusable card background, NOT a UI mockup. Absolutely NO text, letters, numbers, buttons, checkboxes, badges, mascot, faces, border frame, rounded corner cutout or watermark. OPAQUE full rectangular canvas. Leave central 80 percent extremely clean and flat pale color so dark native text remains easy to read. Decoration confined to narrow corners and outer edges, very sparse, softly lit, simple small sculpted space details. State: NOT YET COMPLETED / ready for departure. Pale cool lavender ivory background, tiny matte lavender crescent planet at upper right edge, a few very subtle indigo orbital arc fragments at lower right edge, 2 tiny lavender stars near outer corners. Quiet and calm; no celebratory confetti, no gold medal. Central area nearly uniform #F1EEFC.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-31a3b831-ffa9-477a-8a91-10907dbebb3d.png",
+      "mode": "generate",
+      "referenceImages": [],
+      "opaqueBackground": true,
+      "assetPath": "App/Assets.xcassets/TaskCardPending.imageset/TaskCardPending.png",
+      "maximumPixelDimension": 960,
+      "sha256": "e9b36f6626e97cfe5cbfcf8f23fc98b201b791b86e9384cc6a38321c6089ea9b"
+    },
+    {
+      "name": "TaskCardCompleted",
+      "prompt": "Use case: stylized-concept. Asset type: full-bleed BACKGROUND TEXTURE for a compact children's iOS habit task card, portrait aspect ratio 2:3. Match an existing premium soft 3D clay toy space app in purple #6756D2, mint and gold. This is ONLY a reusable card background, NOT a UI mockup. Absolutely NO text, letters, numbers, buttons, checkboxes, badges, mascot, faces, border frame, rounded corner cutout or watermark. OPAQUE full rectangular canvas. Leave central 80 percent extremely clean and flat pale color so dark native text remains easy to read. Decoration confined to narrow corners and outer edges, very sparse, softly lit, simple small sculpted space details. State: SUCCESSFULLY COMPLETED / earned a star. Fresh light mint green background distinctly different from the lavender pending state, tiny gold star cluster at upper right edge, soft golden orbital arc fragment at lower right edge, 3 tiny warm golden and mint confetti sparkles near outer corners. Joyful but restrained; central area nearly uniform #DDF6E9. No checkmark icon or text.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-00551d57-cd57-4343-a878-29f2e02e348e.png",
+      "mode": "generate",
+      "referenceImages": [],
+      "opaqueBackground": true,
+      "assetPath": "App/Assets.xcassets/TaskCardCompleted.imageset/TaskCardCompleted.png",
+      "maximumPixelDimension": 960,
+      "sha256": "a7e701ce28a2f6ccd42b1118b9628fa6c6d74548af65403f5ce0f0da4a9ba598"
+    },
+    {
+      "name": "ParentApprovalStamp",
+      "prompt": "Use case: stylized-concept. Create ONE production-ready transparent PNG UI asset for a Chinese children's space-themed habit tracker, used as a parent approval stamp at 44–52 pt. Subject: a cheerful circular rubber-stamp impression, rich dark emerald/teal ink, double circular outline with gently scalloped outer edge, a very large bold check mark in the center, two tiny four-point space sparkles inside the ring. Flat clean cartoon ink graphic with only subtle stamped ink texture, strong thick outlines and a simple silhouette, high contrast on a pale mint card, readable at tiny size. Slight natural 10-degree counterclockwise tilt, centered, stamp fills 88% of square canvas, all edges fully visible. GENUINE transparent alpha background, transparent outside the seal and in the open spaces between ink marks. No white square, no checkerboard pattern, no mockup, no physical stamp handle, no ribbons, no scene, no text, no Chinese characters, no letters, no numbers, no watermark. Square 1024x1024.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-2feeeaf9-d0c2-4ed5-8234-b502a112de3c.png",
+      "assetPath": "App/Assets.xcassets/ParentApprovalStamp.imageset/ParentApprovalStamp.png",
+      "sha256": "ef0bb414b7cabaed81e2df686418b8586b3eb8d8100a3219e206e90c120b0644",
+      "maximumPixelDimension": 1254,
+      "mode": "generate",
+      "referenceImages": []
+    },
+    {
+      "prompt": "Use case: precise-object-edit. Input image is the EDIT TARGET, an existing children's space habit app parent-approval rubber stamp. Create its DARK MODE sibling asset. Change ONLY the ink color from dark emerald to luminous pale mint/ivory green (#B7FFE0, with subtle #E1FFF2 highlights). Preserve the existing circular double ring, gently scalloped outer edge, large bold checkmark, two four-point sparkles, stamped ink grain, relative sizes, silhouette, framing and transparent negative spaces. The ink must be bright enough to remain clearly visible when overlaid at around 40 percent opacity on a charcoal dark iOS card. Flat pale ink, not a neon lamp: no glow halo, no drop shadow, no 3D embossing. This is an actual transparent PNG asset, not a mockup: GENUINE alpha transparency outside the seal and inside its open spaces. Do not add any dark backdrop, white square, checkerboard, text, letters, numbers, ribbons or watermark. Keep complete edges inside canvas. Square.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-43c687dd-9e75-43ea-8a5e-e94ff5b7086d.png",
+      "referenceImages": [
+        "App/Assets.xcassets/ParentApprovalStamp.imageset/ParentApprovalStamp.png"
+      ],
+      "name": "ParentApprovalStampDark",
+      "assetPath": "App/Assets.xcassets/ParentApprovalStamp.imageset/ParentApprovalStamp-Dark.png",
+      "sha256": "d7f9afaea76b2d92b42e8b36ca828157e28167337d8d38e7815c9dc8b71bfe80",
+      "maximumPixelDimension": 1254,
+      "mode": "edit",
+      "appearance": "dark"
+    },
+    {
+      "name": "HomeLaunchScene",
+      "prompt": "Use case: precise-object-edit / asset extraction. The reference is the approved three-iPhone UI design. Extract and faithfully reconstruct ONLY the decorative illustration used in the first phone's TOP HERO as a standalone production background asset. Landscape 3:2. Same happy plush baby panda astronaut with white suit and lavender trim, waving from a pale purple moon surface, small white/orange rocket behind it. Panda and rocket completely contained in the RIGHT 48 percent, cropped neither head nor feet. LEFT 52 percent is a quiet pale periwinkle-to-ivory open sky, low contrast, nearly empty, reserved for native black headline and progress controls. Soft lavender/blue sky, sparse little clay gold stars in right upper corner, gentle moon ground at bottom. Faithfully match toy materials, panda identity, soft lighting and palette of the reference. NO TEXT AT ALL: erase headline, numeric counters, badges, navigation, UI cards, fuel gauge, checkboxes, any letters/numbers/logos/watermarks. Opaque full rectangular image, no rounded border or phone frame. This is an image for a real SwiftUI card, not a screenshot. No added objects. High quality.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-b9f4df97-a74c-4932-8cc6-2511954747c1.png",
+      "assetPath": "App/Assets.xcassets/HomeLaunchScene.imageset/HomeLaunchScene.png",
+      "sha256": "2157fa9a51dd7b579ceb614475c933c3c96e799aad5c4826c9def1494deeabd4",
+      "maximumPixelDimension": 1536,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "opaqueBackground": true
+    },
+    {
+      "name": "MissionWake",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionWake.imageset/MissionWake.png",
+      "sha256": "d6a323d3edff1080f399e207de9dfe8da8f4e769c63f666afd87300e914d4085",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        0,
+        0,
+        280,
+        305
+      ]
+    },
+    {
+      "name": "MissionBreakfast",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionBreakfast.imageset/MissionBreakfast.png",
+      "sha256": "468035b8f4fde982bf62fcd990dfef5c21332b1d827f7126eb00aa822d4b322c",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        280,
+        0,
+        278,
+        305
+      ]
+    },
+    {
+      "name": "MissionLunch",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionLunch.imageset/MissionLunch.png",
+      "sha256": "7094a5c95af118f0bc22551e764afdd17ed20b788a93c98af5cb3cf66c9fd0e8",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        558,
+        0,
+        283,
+        305
+      ]
+    },
+    {
+      "name": "MissionDinner",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionDinner.imageset/MissionDinner.png",
+      "sha256": "8081a635cd5a31ae84bdae0a5502c79749dbb3b8843e4fbe8dc5b46f73d6880a",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        841,
+        0,
+        280,
+        305
+      ]
+    },
+    {
+      "name": "MissionSleeping",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionSleeping.imageset/MissionSleeping.png",
+      "sha256": "3010371faf3e791e70cee23f746cbcca5c8191483931e2d6a753aa42406a6f15",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        1121,
+        0,
+        281,
+        305
+      ]
+    },
+    {
+      "name": "MissionListening",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionListening.imageset/MissionListening.png",
+      "sha256": "a68a87b6a600719cdb54e0a6fae4ce71247674614e7e45a5291cedf08df80b8c",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        0,
+        305,
+        280,
+        258
+      ]
+    },
+    {
+      "name": "MissionHomework",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionHomework.imageset/MissionHomework.png",
+      "sha256": "540ab251eeff899e0c4049e1ed48a98c75456294763fc2f0dd87eb91b40088f7",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        280,
+        305,
+        280,
+        258
+      ]
+    },
+    {
+      "name": "MissionReading",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionReading.imageset/MissionReading.png",
+      "sha256": "7a8a3dd04e6db61d5ca6014fd7916435060b7dbac98cc5acf9d16f29833bedbe",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        560,
+        305,
+        281,
+        258
+      ]
+    },
+    {
+      "name": "MissionToys",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionToys.imageset/MissionToys.png",
+      "sha256": "70e6af24b30fde9799d928ffdcaa8104a6ebc7c2cca4dc570ade832f4fb38a6f",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        0,
+        563,
+        280,
+        283
+      ]
+    },
+    {
+      "name": "MissionCleaning",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionCleaning.imageset/MissionCleaning.png",
+      "sha256": "565e0b94dee9a7bf310a77fdd46da53ff7d4bc5bc5f1dc30906932fdadcd1832",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        280,
+        563,
+        280,
+        283
+      ]
+    },
+    {
+      "name": "MissionWashing",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionWashing.imageset/MissionWashing.png",
+      "sha256": "901079bc11c3809b221d5adf75bb1f36ca41cc0df5066cfdf3d9ad2ed15d84d6",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        560,
+        563,
+        281,
+        283
+      ]
+    },
+    {
+      "name": "MissionHygiene",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionHygiene.imageset/MissionHygiene.png",
+      "sha256": "30beed7e9fa08b8f1cd53fba82225362666ec35851fd50f82b91368217f6e180",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        841,
+        563,
+        273,
+        283
+      ]
+    },
+    {
+      "name": "MissionDressing",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionDressing.imageset/MissionDressing.png",
+      "sha256": "1b50b7c617983ab48157aabcb26f2cc595674be106a4b93009088b83c1fd921c",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        1114,
+        563,
+        288,
+        283
+      ]
+    },
+    {
+      "name": "MissionKindness",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionKindness.imageset/MissionKindness.png",
+      "sha256": "efe6542cdc13003157376da0f0571ab4de5f16b3dbf5993da91b926cc11b9b9a",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        0,
+        846,
+        280,
+        276
+      ]
+    },
+    {
+      "name": "MissionCalmness",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionCalmness.imageset/MissionCalmness.png",
+      "sha256": "31e72a49a44932b0edbe15c2288979f513faabc6ff8c1c48473c525ae85474fa",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        280,
+        846,
+        280,
+        276
+      ]
+    },
+    {
+      "name": "MissionPromptness",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionPromptness.imageset/MissionPromptness.png",
+      "sha256": "029ebd371d627d81eb5b782120eaee49f76febc2967716fabc6ec8250bb02fac",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        560,
+        846,
+        281,
+        276
+      ]
+    },
+    {
+      "name": "MissionHonesty",
+      "prompt": "Use case: precise-object-edit / production sprite atlas extraction. Reference is approved panda space iPhone app mockup. Create ONE production sprite atlas PNG for all task illustrations, preserving its adorable soft 3D clay-toy style, polished materials, lavender/blue/teal/orange/pink palette and front three-quarter lighting. NOT a UI screenshot. This atlas will be deterministically sliced on a regular grid: EXACTLY FIVE COLUMNS by FOUR ROWS, twenty equally sized SQUARE cells, aspect ratio 5:4, highest practical resolution. Transparent alpha background across entire atlas. No visible cell borders, no colored tiles, no dividers, no captions, no text, no numerals, no buttons, no point tokens, no badges/checkmarks except checkmark that is part of the shield subject. Every illustration centered INSIDE its exact grid cell, occupies 65 percent of cell width/height maximum, 17.5 percent transparent margins on ALL sides; no overlap or shadows extending between cells. Keep uniform object scale. Render these cells in EXACT order left to right, top to bottom:\nROW 1 energy: (1) cheerful golden sun beside tiny lavender-blue bed and pillow, (2) breakfast bread slice plus warm milk cup and little bowl, (3) bowl of rice with broccoli and carrot, (4) dinner plate with vegetables and chicken drumstick, (5) crescent moon with tiny sleeping panda nestled on lavender pillow.\nROW 2 knowledge: (1) purple-blue headphones sitting on two colorful books, EXACTLY like listening artwork in reference; (2) large orange pencil on lavender spiral notebook, matching homework reference; (3) two closed blue/lavender books and purple bookmark, matching reading reference; (4) completely EMPTY transparent cell; (5) completely EMPTY transparent cell.\nROW 3 life: (1) little yellow/cyan basket with teddy bear and blocks; (2) yellow broom with purple cuff and cyan sparkle; (3) toothbrush standing in a blue cup and tiny yellow rubber duck; (4) folded mint/lavender towels with pink soap; (5) blue-teal shirt and neatly folded shorts.\nROW 4 courage: (1) happy baby panda hugging a pink heart, no astronaut helmet; (2) calm smiling seated panda with closed eyes and two mint leaves; (3) bold lavender lightning bolt with one tiny yellow sparkle; (4) pink shield with white central checkmark; (5) completely EMPTY transparent cell.\nCopy the visible illustration identities closely from the reference; extrapolate only those not visible. All objects are true cutouts with genuine transparent negative spaces, no white or checkerboard baked background, no scene. The atlas is a single engine sprite-sheet asset, not separate mockup panels. Exact 5-column 4-row layout and transparent cell margins are the most important constraints.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-a898d848-bc93-4bb4-8e96-d7c3c52052ff.png",
+      "assetPath": "App/Assets.xcassets/MissionHonesty.imageset/MissionHonesty.png",
+      "sha256": "9d49a98086562895287511340c85e2ccc39a5e71cbcca6bded0970f9b87307cd",
+      "maximumPixelDimension": 384,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-iPhone原生适配设计稿.png"
+      ],
+      "atlasCrop": [
+        841,
+        846,
+        281,
+        276
+      ]
+    },
+    {
+      "name": "SectionEnergyFrame",
+      "prompt": "Use case: background-extraction / precise-object-edit. Extract and reconstruct ONLY the decorative outer frame and top ornamental stations from the reference UI section, as ONE production transparent PNG asset for SwiftUI. Match the existing shapes/materials faithfully: orange domed energy station with white fork-and-spoon medallion at upper LEFT, little orange-and-blue rover and shrubs upper RIGHT. Theme #FF8D28. Portrait canvas3:4, target1170x1560. Layout for a stretchable UI frame: top decorations confined to top240px, quiet blank colored ribbon from y210 to300px across width, outer frame straight vertical sides continuing from y270px down to bottom, rounded bottom corners. Thin layered glossy toy-like border ~12px thick, corner radius48px. Keep24px transparent margin around the entire outside silhouette. Frame and ornaments opaque, large INNER REGION entirely transparent alpha, no tinted panel fill. Top ribbon must be blank and calm, free of all text/numbers and UI; title will be native overlaid in app. CENTER55% of upper decorative area free from objects. Both top and bottom corners intact. Side rails and bottom contain ONLY the plain theme colored border, no stars or extra motifs, so they can be stretched safely. REMOVE EVERY task card, icon, point star, task illustration, text, count pill, number, button, time, approval stamp. Remove original page background entirely. Genuine transparent alpha both inside and outside frame, not a white/gray rectangle, not a checkerboard. No text, logo, watermark, phone, screenshot or new objects. A single empty ornamental border asset, not a redesign of the page.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-c64e9d63-1ec6-4f50-847c-d0708ccdeb7e.png",
+      "assetPath": "App/Assets.xcassets/SectionEnergyFrame.imageset/SectionEnergyFrame.png",
+      "sha256": "44434f17d98f2090f20280c86812a13c7a6bb034f7996b7fbdb903d1eebc3117",
+      "mode": "reference-guided transparent extraction",
+      "referenceImages": [
+        "/Users/yan/Documents/ChatGPT/多多打卡/Artwork/Designs/FullHome-v5/01-energy-reference.png"
+      ],
+      "scale": "3x",
+      "capInsetsPoints": {
+        "top": 112,
+        "left": 24,
+        "bottom": 24,
+        "right": 24
+      }
+    },
+    {
+      "name": "SectionKnowledgeFrame",
+      "prompt": "Use case: background-extraction / precise-object-edit. Extract and reconstruct ONLY the decorative outer frame and top ornamental stations from the reference UI section, as ONE production transparent PNG asset for SwiftUI. Match the existing shapes/materials faithfully: purple-blue telescope with stacked books at upper LEFT, star-window observatory dome and shrubs upper RIGHT. Theme #B0A0FF. Portrait canvas3:4, target1170x1560. Layout for a stretchable UI frame: top decorations confined to top240px, quiet blank colored ribbon from y210 to300px across width, outer frame straight vertical sides continuing from y270px down to bottom, rounded bottom corners. Thin layered glossy toy-like border ~12px thick, corner radius48px. Keep24px transparent margin around the entire outside silhouette. Frame and ornaments opaque, large INNER REGION entirely transparent alpha, no tinted panel fill. Top ribbon must be blank and calm, free of all text/numbers and UI; title will be native overlaid in app. CENTER55% of upper decorative area free from objects. Both top and bottom corners intact. Side rails and bottom contain ONLY the plain theme colored border, no stars or extra motifs, so they can be stretched safely. REMOVE EVERY task card, icon, point star, task illustration, text, count pill, number, button, time, approval stamp. Remove original page background entirely. Genuine transparent alpha both inside and outside frame, not a white/gray rectangle, not a checkerboard. No text, logo, watermark, phone, screenshot or new objects. A single empty ornamental border asset, not a redesign of the page.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-94edea01-1b60-4f47-9ef3-046150962559.png",
+      "assetPath": "App/Assets.xcassets/SectionKnowledgeFrame.imageset/SectionKnowledgeFrame.png",
+      "sha256": "f7b55907a638c551fe2ce1813edac4f89b0290a63e57b15a0e4baf2c50baf030",
+      "mode": "reference-guided transparent extraction",
+      "referenceImages": [
+        "/Users/yan/Documents/ChatGPT/多多打卡/Artwork/Designs/FullHome-v5/02-knowledge-reference.png"
+      ],
+      "scale": "3x",
+      "capInsetsPoints": {
+        "top": 112,
+        "left": 24,
+        "bottom": 24,
+        "right": 24
+      }
+    },
+    {
+      "name": "SectionLifeFrame",
+      "prompt": "Use case: background-extraction / precise-object-edit. Extract and reconstruct ONLY the decorative outer frame and top ornamental stations from the reference UI section, as ONE production transparent PNG asset for SwiftUI. Match the existing shapes/materials faithfully: cyan living dome with star door and mint shrubs at upper LEFT, matching cyan dome and plants upper RIGHT. Theme #00D2E0. Portrait canvas3:4, target1170x1560. Layout for a stretchable UI frame: top decorations confined to top240px, quiet blank colored ribbon from y210 to300px across width, outer frame straight vertical sides continuing from y270px down to bottom, rounded bottom corners. Thin layered glossy toy-like border ~12px thick, corner radius48px. Keep24px transparent margin around the entire outside silhouette. Frame and ornaments opaque, large INNER REGION entirely transparent alpha, no tinted panel fill. Top ribbon must be blank and calm, free of all text/numbers and UI; title will be native overlaid in app. CENTER55% of upper decorative area free from objects. Both top and bottom corners intact. Side rails and bottom contain ONLY the plain theme colored border, no stars or extra motifs, so they can be stretched safely. REMOVE EVERY task card, icon, point star, task illustration, text, count pill, number, button, time, approval stamp. Remove original page background entirely. Genuine transparent alpha both inside and outside frame, not a white/gray rectangle, not a checkerboard. No text, logo, watermark, phone, screenshot or new objects. A single empty ornamental border asset, not a redesign of the page.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-d74384c4-1c66-4c70-ab17-2bb1d2215456.png",
+      "assetPath": "App/Assets.xcassets/SectionLifeFrame.imageset/SectionLifeFrame.png",
+      "sha256": "4d03914bf80ed36b43889b201c2179d846dccc63b8f705a9c55f5a6887a13751",
+      "mode": "reference-guided transparent extraction",
+      "referenceImages": [
+        "/Users/yan/Documents/ChatGPT/多多打卡/Artwork/Designs/FullHome-v5/03-life-reference.png"
+      ],
+      "scale": "3x",
+      "capInsetsPoints": {
+        "top": 112,
+        "left": 24,
+        "bottom": 24,
+        "right": 24
+      }
+    },
+    {
+      "name": "SectionCourageFrame",
+      "prompt": "Use case: background-extraction / precise-object-edit. Extract and reconstruct ONLY the decorative outer frame and top ornamental stations from the reference UI section, as ONE production transparent PNG asset for SwiftUI. Match the existing shapes/materials faithfully: pink heart/star door dome at upper LEFT, small flag outpost and shrubs upper RIGHT. Theme #FF375F. Portrait canvas3:4, target1170x1560. Layout for a stretchable UI frame: top decorations confined to top240px, quiet blank colored ribbon from y210 to300px across width, outer frame straight vertical sides continuing from y270px down to bottom, rounded bottom corners. Thin layered glossy toy-like border ~12px thick, corner radius48px. Keep24px transparent margin around the entire outside silhouette. Frame and ornaments opaque, large INNER REGION entirely transparent alpha, no tinted panel fill. Top ribbon must be blank and calm, free of all text/numbers and UI; title will be native overlaid in app. CENTER55% of upper decorative area free from objects. Both top and bottom corners intact. Side rails and bottom contain ONLY the plain theme colored border, no stars or extra motifs, so they can be stretched safely. REMOVE EVERY task card, icon, point star, task illustration, text, count pill, number, button, time, approval stamp. Remove original page background entirely. Genuine transparent alpha both inside and outside frame, not a white/gray rectangle, not a checkerboard. No text, logo, watermark, phone, screenshot or new objects. A single empty ornamental border asset, not a redesign of the page.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-6d1591fe-9051-470a-87a5-3d4f44820161.png",
+      "assetPath": "App/Assets.xcassets/SectionCourageFrame.imageset/SectionCourageFrame.png",
+      "sha256": "7cfea0b070e27d49a427712ae0799cf1dce5e7b1a3e3adc7c41308f6c5fe50eb",
+      "mode": "reference-guided transparent extraction",
+      "referenceImages": [
+        "/Users/yan/Documents/ChatGPT/多多打卡/Artwork/Designs/FullHome-v5/04-courage-reference.png"
+      ],
+      "scale": "3x",
+      "capInsetsPoints": {
+        "top": 112,
+        "left": 24,
+        "bottom": 24,
+        "right": 24
+      }
+    },
+    {
+      "name": "StatisticsHero",
+      "prompt": "Use case: background-extraction. Extract/recreate ONLY the top-right panda astronaut illustration from the reference app design, waving with one paw and holding a golden star in the other, same adorable 3D toy panda white lavender space suit, small lavender cloud cushion beneath, lavender ringed planet behind upper right and 3 little gold stars. Standalone production iOS image asset on TRUE transparent alpha background. Square composition, full subject visible, tightly framed with 5% transparent margin. No text, no app UI, no cards, no white rectangle, no checkerboard.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-61e5eb03-dc65-42f1-9948-7d126ce97256.png",
+      "assetPath": "App/Assets.xcassets/StatisticsHero.imageset/StatisticsHero.png",
+      "sha256": "a2ed8aa89f7db538d73f4344be41e063192419cdaa6eb5971c42ccf3c9fe6085",
+      "maximumPixelDimension": 512,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-儿童打卡统计设计稿-v2.png"
+      ]
+    },
+    {
+      "name": "StatisticsChest",
+      "prompt": "Use case: background-extraction. Extract/recreate ONLY the weekly reward treasure chest shown in the reference design: adorable small rounded purple treasure chest with golden rim, golden lock, little gold coins and lavender cloud beneath. Match exactly the soft 3D toy material and pastel light. One centered isolated chest, square transparent-alpha canvas, object fills 85%, all edges visible. No text, no UI, no other icons, no opaque background, no checkerboard.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-dc684932-6636-48e3-bf54-858a7c10bac5.png",
+      "assetPath": "App/Assets.xcassets/StatisticsChest.imageset/StatisticsChest.png",
+      "sha256": "8dc504d7ebd709d849c0bd731ce479ce01af6131322d2d5b0fedcf84901418f5",
+      "maximumPixelDimension": 192,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-儿童打卡统计设计稿-v2.png"
+      ]
+    },
+    {
+      "name": "StatisticsMedal",
+      "prompt": "Use case: background-extraction. Extract/recreate ONLY the gold star shaped achievement medal from the monthly reward row in reference design. A plump 3D golden five-point star badge with orange beveled rim and smaller cream gold star center, tiny lavender ribbon tips below. Cute toy style for six year old, premium soft light. One centered isolated badge filling 85% of square genuinely transparent alpha canvas. No text, UI, additional icons, white background or checkerboard.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-20e42b45-fed3-44ac-aad3-40ad2da62944.png",
+      "assetPath": "App/Assets.xcassets/StatisticsMedal.imageset/StatisticsMedal.png",
+      "sha256": "fddb46cf6b9702f01cc999f3de1bc98379fdb4123fdebca733068d3c610b428f",
+      "maximumPixelDimension": 192,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-儿童打卡统计设计稿-v2.png"
+      ]
+    },
+    {
+      "name": "MonthlyProgressStar",
+      "prompt": "Use case: background-extraction. Input image is the reference design. Extract and recreate ONLY the tiny smiling golden five-point star at the far left of the monthly progress bar. One adorable plump golden yellow five-point star, orange beveled rim, two little brown dot eyes and a tiny curved smile, soft 3D toy material, subtle highlights, matching the reference exactly. A standalone iOS progress marker, legible at 36 points. Centered complete silhouette occupies 84 percent of square canvas. GENUINE transparent alpha background. No glow extending beyond silhouette, no shadow floor, no progress bar, no text, no badge, no ribbon, no other objects, no white rectangle, no checkerboard.",
+      "source": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-ba15fd6d-3e17-41dc-bd96-7ea760866677.png",
+      "assetPath": "App/Assets.xcassets/MonthlyProgressStar.imageset/MonthlyProgressStar.png",
+      "sha256": "d05e394b8d4f39e8deada0cf7916abf9de31994ef856037c9ea8d1d4770b255c",
+      "maximumPixelDimension": 192,
+      "mode": "reference-guided extraction",
+      "referenceImages": [
+        "Artwork/Designs/多多打卡-月度打卡进度优化设计稿.png"
+      ]
+    }
+  ]
+}

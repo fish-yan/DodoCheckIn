@@ -1,0 +1,11 @@
+{
+  "tool": "built-in ImageGen",
+  "sourceScreenshot": "docs/screenshots/多多打卡-打卡统计完整长图.png",
+  "prompts": [
+    "statistics-redesign-v1-prompt.txt",
+    "statistics-redesign-v2-prompt.txt"
+  ],
+  "output": "多多打卡-儿童打卡统计设计稿-v2.png",
+  "generatedSource": "/Users/yan/.codex/generated_images/01a0b48a-e2e7-7b72-956f-4a215352e78a/exec-f64e1f34-5b40-446f-ae83-8591456e4803.png",
+  "scope": "Visual mockup only; app code unchanged."
+}

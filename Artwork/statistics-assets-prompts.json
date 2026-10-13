@@ -1,0 +1,18 @@
+{
+  "reference": "/Users/yan/Documents/ChatGPT/多多打卡/Artwork/Designs/多多打卡-儿童打卡统计设计稿-v2.png",
+  "generator": "Built-in image_gen.imagegen",
+  "assets": [
+    {
+      "name": "StatisticsHero",
+      "prompt": "Use case: background-extraction. Extract/recreate ONLY the top-right panda astronaut illustration from the reference app design, waving with one paw and holding a golden star in the other, same adorable 3D toy panda white lavender space suit, small lavender cloud cushion beneath, lavender ringed planet behind upper right and 3 little gold stars. Standalone production iOS image asset on TRUE transparent alpha background. Square composition, full subject visible, tightly framed with 5% transparent margin. No text, no app UI, no cards, no white rectangle, no checkerboard."
+    },
+    {
+      "name": "StatisticsChest",
+      "prompt": "Use case: background-extraction. Extract/recreate ONLY the weekly reward treasure chest shown in the reference design: adorable small rounded purple treasure chest with golden rim, golden lock, little gold coins and lavender cloud beneath. Match exactly the soft 3D toy material and pastel light. One centered isolated chest, square transparent-alpha canvas, object fills 85%, all edges visible. No text, no UI, no other icons, no opaque background, no checkerboard."
+    },
+    {
+      "name": "StatisticsMedal",
+      "prompt": "Use case: background-extraction. Extract/recreate ONLY the gold star shaped achievement medal from the monthly reward row in reference design. A plump 3D golden five-point star badge with orange beveled rim and smaller cream gold star center, tiny lavender ribbon tips below. Cute toy style for six year old, premium soft light. One centered isolated badge filling 85% of square genuinely transparent alpha canvas. No text, UI, additional icons, white background or checkerboard."
+    }
+  ]
+}
